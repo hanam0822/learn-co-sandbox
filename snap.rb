@@ -3,4 +3,6 @@ class Snapchat
 def  initialize(username, story)
    @usernamename = username
    @story = story 
-   
+ end
+ 
+ end
